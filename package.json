@@ -29,5 +29,16 @@
     "jest": "^29.6.2",
     "nodemon": "^3.0.1",
     "prettier": "^2.7.1"
-  }
+  },
+  "description": "This repository is a sample Node.js application for Docker's documentation.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docker/docker-nodejs-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/docker/docker-nodejs-sample/issues"
+  },
+  "homepage": "https://github.com/docker/docker-nodejs-sample#readme"
 }
